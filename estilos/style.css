@@ -9,7 +9,7 @@ paleta de cores
 * {
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px;
-    margin: 0px;
+    margin: -3px;
     box-sizing: border-box;
 }
 
@@ -63,3 +63,4 @@ div#formulario > h1 {
 div#formulario > p {
     font-size: 1.2em;
 }
+
